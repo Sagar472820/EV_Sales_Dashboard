@@ -63,4 +63,8 @@ Calculate their percentage relative to the total electric vehicle count to evalu
 
 ## Dataset Used
 - <a href="https://github.com/Sagar472820/EV_Sales_Dashboard/blob/main/Electric_Vehicle_Population_Data.zip"> EV_Dataset </a>
+
+## Dashboard Interaction
+
+- <a href="https://public.tableau.com/app/profile/sagar.gaikwad1910/viz/EVProject_17260173055390/Dashboard1?publish=yes"> Tableau Dashboard </a>
        
