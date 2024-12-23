@@ -62,4 +62,5 @@ Calculate their percentage relative to the total electric vehicle count to evalu
        Displays the top 10 electric vehicle models by total count, emphasizing consumer preferences and the popularity of specific models.
 
 ## Dataset Used
+- <a href="https://github.com/Sagar472820/EV_Sales_Dashboard/blob/main/Electric_Vehicle_Population_Data.zip"> EV_Dataset </a>
        
