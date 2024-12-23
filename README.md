@@ -67,4 +67,10 @@ Calculate their percentage relative to the total electric vehicle count to evalu
 ## Dashboard Interaction
 
 - <a href="https://public.tableau.com/app/profile/sagar.gaikwad1910/viz/EVProject_17260173055390/Dashboard1?publish=yes"> Tableau Dashboard </a>
+
+## Dashboard Preview
+
+![EV_Dash](https://github.com/user-attachments/assets/5fa145a2-004e-4c82-b4d2-54bf012c0921)
+
+
        
